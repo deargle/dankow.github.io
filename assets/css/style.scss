@@ -1,0 +1,16 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+.contain {
+  object-fit: contain;
+}
+
+body {
+  background-image: url(/DogCow_from_LaserWriter_8.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-width: 100%;
+  min-height: 100%;
+}
